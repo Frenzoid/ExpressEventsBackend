@@ -1,0 +1,10 @@
+{
+    "explorer.confirmDragAndDrop": false,
+    "workbench.iconTheme": "vscode-icons",
+    "explorer.confirmDelete": false,
+    "vsicons.projectDetection.disableDetect": true,
+    "background.customImages": [],
+    "background.enabled": true,
+    "background.useDefault": true,
+    "background.useFront": false
+}
